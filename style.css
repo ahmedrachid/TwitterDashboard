@@ -1,0 +1,156 @@
+*{
+  font-family: sans-serif;
+  list-style: none;
+  padding: 0;
+
+}
+
+body {
+
+  background:#333
+  
+}
+.hashtags{
+  
+  width: 500px;
+  color: white;
+
+}
+.hashtags li { 
+
+
+  margin : 20px 0;
+}
+.bar{
+
+  background: #353b48;
+  display: block;
+  height: 2px;
+  border:1px solid rgba(0,0,0,0,3);
+  border-radius: 3px;
+  overflow: hidden;
+  box-shadow: 0 0 10px #2187e7b3
+}
+.bar span{ 
+  height: 2px;
+  
+  background: #2187e7;
+}
+.chart {
+  padding: 20px;
+}
+table {
+  width: 100%;
+  height: 400px;
+}
+.charttitle {
+  text-align: left;
+}
+.bars td {
+  vertical-align: bottom;
+}
+.bars div:hover {
+  opacity: 0.6;
+}
+.legend {
+  vertical-align: bottom;
+  padding-left: 20px;
+  text-align: left;
+}
+.legbox {
+  display: block;
+  clear: both;
+}
+.xaxisname {
+  margin: 5px;
+  color: #fff;
+  font-size: 77%;
+  padding: 5px;
+  float: left;
+}
+.map {
+  height: 100%;
+  max-width: 100%;
+}
+
+.map_div {
+  position: relative;
+  width:800px;
+  height:600px;
+  float: left;
+}
+
+.map_point {
+  position: absolute;
+  background-color: rgb(255, 0, 13);
+  border-radius: 50%;
+  text-align: center;
+  color: white;
+}
+h3{
+  color: white;
+}
+/*Flat UI colors*/
+.one {
+  background: #16A085;
+}
+.two {
+  background: #2ECC71;
+}
+.three {
+  background: #27AE60;
+}
+.four {
+  background: #3498DB;
+}
+.five {
+  background: #2980B9;
+}
+.six {
+  background: #9B59B6;
+}
+.seven {
+  background: #8E44AD;
+}
+.eight {
+  background: #34495E;
+}
+.nine {
+  background: #2C3E50;
+}
+.ten {
+  background: #22313f;
+}
+.eleven {
+  background: #F1C40F;
+}
+.twelve {
+  background: #F39C12;
+}
+.thirteen {
+  background: #E67E22;
+}
+.fourteen {
+  background: #D35400;
+}
+.fifteen {
+  background: #E74C3C;
+}
+.sixteen {
+  background: #C0392B;
+}
+.seventeen {
+  background: #ECF0F1;
+}
+.seventeen.clouds {
+  color: #BDC3C7;
+}
+.eighteen {
+  background: #BDC3C7;
+}
+.nineteen {
+  background: #95A5A6;
+}
+.twenty {
+  background: #7F8C8D;
+}
