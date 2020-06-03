@@ -1,5 +1,5 @@
 # TwitterDashboard
-Web application and data visualization tool on Twitter dataset developed using Python standard library and Javascript, HTML, CSS without any framework
+Web application and data visualization tool on Twitter dataset developed using Python standard library, Javascript, HTML and CSS without any framework
 
 To launch our application execute:
 
